@@ -333,7 +333,7 @@ html {
 /* Products */
 .container-products{
     display: grid;
-    grid-template-columns: repeat(3, 300px);
+    grid-template-columns: repeat(2, 300px);
     gap: 4rem;
     align-items: center;
     justify-content: center;
